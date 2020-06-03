@@ -16,6 +16,7 @@ public class MyClassWithGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("My Application with git");
+		System.out.println("Testing commit");
 
 	}
 
